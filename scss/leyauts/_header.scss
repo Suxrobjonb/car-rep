@@ -1,0 +1,31 @@
+.header{
+    background-color: #E5E7EA;
+}
+
+.box__nav {
+    padding: 27px 120px 18px 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.site__list {
+    display: flex;
+    align-items: center;
+}
+
+.tell {
+    color: #000000;
+}
+
+.nav__list+.nav__list {
+    margin-left: 15px;
+}
+
+.mon {
+    padding: 21.21px;
+    border: none;
+    cursor: pointer;
+    background: #F5F5F5;
+    border-radius: 100px;
+}
